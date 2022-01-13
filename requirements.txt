@@ -1,0 +1,5 @@
+importlib-metadata==4.10.0
+Markdown==3.3.6
+Pillow==9.0.0
+ttkbootstrap==1.5.0
+zipp==3.7.0
